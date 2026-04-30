@@ -1,0 +1,6 @@
+1.2.0 — Full Offline Upgrade
+- Added offline vector map support
+- Added local storage for waypoints
+- Added background tile downloader
+- Upgraded to Java 17
+- Zero analytics, no Google Play Services
